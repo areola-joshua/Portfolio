@@ -1,1 +1,2 @@
-Portfolio
+:rainbow[Portfolio]
+🏳️‍🌈 A portfolio website
